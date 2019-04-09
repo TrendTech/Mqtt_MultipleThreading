@@ -1,1 +1,3 @@
 # Mqtt_MultipleThreading
+
+一个多线程的模拟MQTT Pub和Sub行为的工具
